@@ -26,6 +26,7 @@ Use o endereço de `tv.html` no player:
 
 Endereços antigos com `?tela=` ou `?tempo=` em `index.html` continuam funcionando: o app redireciona para a tela de TV.
 
+
 ## Dados
 
 - Fonte: cards de tarefa exportados do Bitrix e controle de salas dos clientes.
